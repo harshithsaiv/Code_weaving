@@ -1,13 +1,7 @@
-(* CSC 201 Section 2, Team 5
-    Names of the Team Members:
-    1. Putta Nikhil Teja 
-    2. Harshith Sai Veeraiah 
-    3. Jagadeeswar Reddy Kamireddy
-    4. Madan B Venkatesh 
-*)
+
 
 (* /*
-Sample 10.
+Sample Program.
 The program is used to calculate the sum of 00 + 11 + 22 + 33 + 44 + ...+ nn.
 Here we define 00 = 1.
 In this sample, define n = 5, and the sum should be 3414.
